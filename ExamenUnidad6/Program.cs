@@ -102,6 +102,12 @@ namespace ExamenUnidad6
                             Console.ReadKey();
                             break;
                         }
+                    default:
+                        {
+                            Console.WriteLine("Esa Opcion no existe");
+                            Console.ReadKey();
+                            break;
+                        }
                 }
             } while (opc != 3);
         }
