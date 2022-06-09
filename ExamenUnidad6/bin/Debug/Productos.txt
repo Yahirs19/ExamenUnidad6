@@ -1,0 +1,41 @@
+Nombre del producto: Agua
+Descripcion: Agua de Manantial
+Precio: 15,00 € 
+Cantidad en Stock: 20 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: 15,00 € 
+Cantidad en Stock: 20 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: 15,000 € 
+Cantidad en Stock: 20 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: 15,000 € 
+Cantidad en Stock: 20 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: $15 
+Cantidad en Stock: 20 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: $15 
+Cantidad en Stock: 20 
+
+Nombre del producto: Creatina
+Descripcion: Creatina Monohidratada
+Precio: $15 
+Cantidad en Stock: 20 
+Nombre del producto: Creatina
+Descripcion: Creatina Monohidratada
+Precio: $600 
+Cantidad en Stock: 900 
+Nombre del producto: Agua
+Descripcion: Agua de manantial
+Precio: $15 
+Cantidad en Stock: 20 
+Nombre del producto: Creatina 
+Descripcion: Creatina mono
+Precio: $600 
+Cantidad en Stock: 500 

@@ -1,0 +1,7 @@
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe.config
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.pdb
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.AssemblyReference.cache
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.exe
+C:\Users\Yahir\Documents\GitHub\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.pdb
